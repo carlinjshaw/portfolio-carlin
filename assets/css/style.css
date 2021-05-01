@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+.hero {
+    background-image: url(http://www.journeyoflight.com/journey12/photographs/color/pacificnorthwest/larger/img_5585_olympicpresunset_d-bed-curve.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.hero-profile {
+    backgroun
+}
