@@ -117,11 +117,13 @@ body {
 }
 
 .smaller-projects img {
-
-display: flex;
+    display: flex;
     flex-wrap: wrap;
     width: 440px;
     height: 320px;
     margin: 25px;
-   
+    border-style:solid;
+    border-width: 3px;
+    border-color:  rgb(77, 75, 75);
+    border-radius: 10px;
 }
