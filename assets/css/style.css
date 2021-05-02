@@ -105,3 +105,23 @@ body {
     margin: 10px;
     border-radius: 10px;
 }
+
+.smaller-projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom:20px;
+    margin-left:140px;
+    margin-right: 140px;
+}
+
+.smaller-projects img {
+
+display: flex;
+    flex-wrap: wrap;
+    width: 440px;
+    height: 320px;
+    margin: 25px;
+   
+}
