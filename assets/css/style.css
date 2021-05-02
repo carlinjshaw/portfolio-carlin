@@ -141,3 +141,7 @@ footer {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 2%;
 }
+
+html {
+    scroll-behavior: smooth;
+  }
