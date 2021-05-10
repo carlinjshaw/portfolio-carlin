@@ -5,10 +5,7 @@
 }
 
 .hero {
-    /* background-image: "assets/images/lanscape.jpg"; */
-    /* background-image: url(http://www.journeyoflight.com/journey12/photographs/color/pacificnorthwest/larger/img_5585_olympicpresunset_d-bed-curve.jpg); */
-    /* background-size: cover;
-    background-position: center; */
+   
     height: 600px;
     position: relative;
     display: flex;
@@ -18,12 +15,7 @@
 .hero-img {
     background-size:cover;
     width: 100%;
-    /* background-position: center; */
     height: 606px;
-    /* position: relative;
-    display: flex;
-    justify-content: center;
-    margin: 0; */
 }
 
 .hero-profile {
